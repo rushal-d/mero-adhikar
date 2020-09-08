@@ -1,0 +1,98 @@
+*:hover{
+    transition: .3s all ease;
+}
+a:hover{
+    text-decoration: none;
+}
+.padding-block{
+    padding: 1em 0em;
+}
+.custom-card .card-body{
+    padding: 1em;
+}
+.create label{
+    font-weight: bolder;
+}
+.create-wrapper .card-header{
+    text-align: center;
+}
+.custom-btn{
+    padding: 5px 15px;
+    border-radius: 0px;
+}
+.btn-clear{
+    background: rgb(244, 67, 54);
+    color: #fff;
+     border: 1px solid  transparent;
+}
+.btn-submit{
+    background: #0041d8;
+    color: #fff;
+     border: 1px solid  transparent;
+}
+.btn-submit:hover{
+    background: #fff;
+    color: #0041d8;
+    border: 1px solid  #0041d8;
+}
+.btn-clear:hover{
+    background: #fff;
+    color: rgb(244, 67, 54);
+     border: 1px solid  rgb(244, 67, 54);
+}
+
+
+.view{
+    background: rgb(26, 27, 27);
+    padding: 5px 15px;
+    color: #fff;
+    border-radius: 7px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.edit{
+    background: rgb(94, 165, 101);
+    padding: 5px 15px;
+    color: #fff;
+    border-radius: 7px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.delet{
+    background: rgb(244, 67, 54);
+    padding: 5px 15px;
+    color: #fff;
+    border-radius: 7px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.add-new a{
+        background:rgb(94, 165, 101);
+    padding: 5px 15px;
+    color: #fff;
+    border-radius: 7px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.add-new{
+    margin-top: 7px;
+}
+.card .card-header{
+    padding: 0px 10px;
+    padding-top: 10px;
+}
+.card h3{
+    font-size: 18px;
+}
+.required-field{
+    color: red;
+}
+.selectize-input > .item {
+    overflow: hidden !important;
+    height: 20px !important;
+    padding-right: 10px;
+
+}
+.main-title{
+    width: 20%;
+    margin: 0 auto;
+}
+.login-page{
+    padding-top: 12%;
+}
